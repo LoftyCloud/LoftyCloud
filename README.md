@@ -10,8 +10,3 @@
   <a href="https://blog.csdn.net/weixin_43720225"><img src="https://img.shields.io/badge/CSDN-red" alt="csdn"></a>
   <a href="https://home.cnblogs.com/u/2305674/"><img src="https://img.shields.io/badge/博客园-blue" alt="博客园"></a>
 </p>
-    
-# 技能清单
-- 后端：C,java,python
-- 数据库相关：mysql
-- 版本管理、文档和自动化部署工具：Git
