@@ -1,6 +1,6 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
-# 联系我
+## 联系我
  - 邮箱：good_wind@foxmail.com
 
 ## 其他平台
