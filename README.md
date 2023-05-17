@@ -1,15 +1,7 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
-# 个人信息
- - 学历：本科
- - 学校：湘潭大学
+# 联系我
  - 邮箱：good_wind@foxmail.com
-
-# 工作经历
-暂无
-
-## 开源项目
-[python小游戏开发](https://gitee.com/Good_Wind/py_games)
 
 ## 其他平台
 <p align="left">
@@ -23,7 +15,3 @@
 - 后端：C,java,python
 - 数据库相关：mysql
 - 版本管理、文档和自动化部署工具：Git
-      
----
-
-待进一步的补充和完善
