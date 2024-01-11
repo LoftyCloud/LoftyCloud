@@ -1,7 +1,10 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
 ## 联系我
- - 邮箱：good_wind@foxmail.com
+ - 邮箱：1543311023@qq.com
+
+## 介绍
+I am a master student at Yunnan University. I am working on safe reinforcement learning with application to autonomous driving and eco-driving control.
 
 ## 其他平台
 <p align="left">
